@@ -4,7 +4,7 @@
 
 ## 公开试玩
 
-[在线游玩](https://neon-cut-clay.wittlud7.chatgpt.site) · [反馈问题](https://github.com/wittlud7/neon-cut-clay/issues)
+[在线游玩](https://wittlud7.github.io/neon-cut-clay/) · [Android 测试包](https://github.com/wittlud7/neon-cut-clay/releases/tag/v0.4.1) · [反馈问题](https://github.com/wittlud7/neon-cut-clay/issues)
 
 这是持续打磨中的公开测试版，欢迎反馈道具辨识度、操作手感与关卡难度。无需登录。
 
