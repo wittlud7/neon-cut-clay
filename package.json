@@ -1,0 +1,1 @@
+{"name":"neon-cut","version":"0.4.1","private":true,"description":"霓虹片场 · Android 离线单机测试版","scripts":{"dev":"node server.js","start":"node server.js","test":"node --test tests/*.test.js","build:levels":"node scripts/build-campaign.js","build:android":"pwsh -NoProfile -File scripts/build-android.ps1","package:release":"pwsh -NoProfile -File scripts/package-release.ps1"}}

@@ -1,0 +1,8 @@
+<resources>
+  <color name="icon_background">#e4eee0</color>
+  <style name="GameTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:windowLightStatusBar">true</item><item name="android:windowLightNavigationBar">true</item>
+    <item name="android:windowBackground">#f6f3eb</item><item name="android:statusBarColor">#f6f3eb</item><item name="android:navigationBarColor">#f6f3eb</item>
+    <item name="android:colorAccent">#4c9178</item><item name="android:windowActionModeOverlay">true</item>
+  </style>
+</resources>

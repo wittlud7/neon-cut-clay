@@ -1,0 +1,63 @@
+{
+  "description": "霓虹片场 · 港风连连看 · 六幕六十关",
+  "compileType": "game",
+  "minigameRoot": "./",
+  "appid": "touristappid",
+  "projectname": "neon-cut",
+  "setting": {
+    "es6": true,
+    "minified": true
+  },
+  "packOptions": {
+    "ignore": [
+      {
+        "type": "file",
+        "value": "index.html"
+      },
+      {
+        "type": "file",
+        "value": "server.js"
+      },
+      {
+        "type": "file",
+        "value": "package.json"
+      },
+      {
+        "type": "file",
+        "value": "README.md"
+      },
+      {
+        "type": "folder",
+        "value": "tests"
+      },
+      {
+        "type": "folder",
+        "value": "scripts"
+      },
+      {
+        "type": "folder",
+        "value": "output"
+      },
+      {
+        "type": "folder",
+        "value": "android"
+      },
+      {
+        "type": "folder",
+        "value": "private"
+      },
+      {
+        "type": "folder",
+        "value": "store"
+      },
+      {
+        "type": "folder",
+        "value": "tools"
+      },
+      {
+        "type": "folder",
+        "value": "assets/art"
+      }
+    ]
+  }
+}
